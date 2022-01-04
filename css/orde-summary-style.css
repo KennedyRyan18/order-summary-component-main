@@ -133,3 +133,8 @@ p{
     color: hsl(224, 23%, 55%);
     font-weight: 500;
 }
+
+.attribution p{
+    display: inline-block;
+
+}
